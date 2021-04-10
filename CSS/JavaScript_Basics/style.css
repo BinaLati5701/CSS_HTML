@@ -1,0 +1,14 @@
+*{ 
+margin: 0px;
+padding: 0px;
+}
+
+img{
+width: 970px;
+height: 750px;
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+background-color: blueviolet;
+
+}

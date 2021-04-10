@@ -1,0 +1,141 @@
+.wrapper{
+    width: 977px;
+    height: 1100px;
+    background-color: black;
+    margin: auto;
+    padding: auto;
+}
+.header{
+    background-image:linear-gradient(to right, #000000ab, black);
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.logoimg{
+    width: 180px;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+.text-right{ 
+   color: white;
+    padding: 10px;
+    
+}
+.nav{
+    height: 50px;
+   background-color:  #0f0f0f00;
+   display: flex;
+   -ms-flex-align: start;
+   justify-content: space-around;
+    
+}
+.button{
+    color: gray;
+    padding: auto;
+    text-justify: auto;
+    font-weight: bold;
+     
+}
+
+
+.mainpic{
+    width: fit-content;
+}
+.box1{
+    height: 180px;
+    background-color: #191919;
+    
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+.icons{
+   min-width: 50px;
+   align-items: center;
+   height: 50px;
+   padding: 5px;
+   margin: 30px;
+    
+}
+.box1 h3{
+    color: orange; 
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0%;
+    
+}
+.latintext{
+    text-justify:auto;
+    color: white;
+    
+}
+.box2{
+    height: 130px;
+    background-image:linear-gradient(to right, #0f0f0f00, #1f201c02, #14130f00);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.box2 h3{
+    color: white;
+    margin-left: 20px;
+}
+.box2 h3, p{
+    color:white;
+    margin-left: 20px;
+    text-justify: auto;
+    
+}
+.buynow{
+    background-color: rgb(161, 95, 7) ;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    padding: 15px;
+    height: 35px;
+    position: relative;
+    margin:20px;
+    margin-top: 40px;
+    font-weight: bold;
+    
+}
+.box3{
+    height:100px;
+    background-color: rgba(12, 1, 1, 0.877);
+    display: flex;
+    justify-content: space-between;
+    
+}
+ h4{
+    color: white;
+    margin-left: 15px;
+    
+    
+}
+ .box3 p{
+    color: coral;
+    margin-right: 15px;
+    
+}
+.box4{
+    background-color: black;
+    height: 400px;    
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.fotowall{
+    width: 200px;
+    padding: 5px;
+    margin: auto;
+    
+     
+}
+
+.pagebuild h3, p{
+    text-justify:auto;
+    color: white;  
+}
+
